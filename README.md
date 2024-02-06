@@ -1,13 +1,13 @@
 A small project guided by Per Harald Borgen, the co-founder and CEO of Scrimba.
 
-### Screenshot
+## Screenshot
 
 ![](Screenshot.png)
 
-### Links
+## Links
 
 - Live Site URL: [Deployment](https://iqadmat.github.io/people-station-counter/)
 
-- ## Author
+## Author
 
 - Linkedin - [Mudasir Ali](https://www.linkedin.com/in/iqadmat/)
