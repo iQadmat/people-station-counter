@@ -6,7 +6,7 @@ A small project guided by Per Harald Borgen, the co-founder and CEO of Scrimba.
 
 ## Links
 
-- Live Site URL: [GitHub Pages](https://iqadmat.github.io/people-station-counter/) - [Netlify](https://lovely-chaja-14dadc.netlify.app/)
+- Live Site URL: [Netlify](https://iqadmat-people-counter.netlify.app/)
 
 ## Author
 
